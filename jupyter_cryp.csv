@@ -1,23 +1,23 @@
 ﻿Coin,Category,Team Transparency,Twitter,Telegram,Discord,Github,Following Roadmap,Volume
-Dot,Blockchain,1,High,High,High,Active,1,7612855727
-ETH,Blockchain,1,High,High,High,Active,1,1.70024E+11
-BNB,Exchange ,1,High,High,High,Active,1,39874609590
-Terra,Blockchain,1,High,High,High,Active,1,225690899
-AVA,Blockchain,1,High,High,High,Active,1,5892669400
-Doge,Meme,1,High,High,High,Active,1,8232745062
-Polygon ,Blockchain,1,High,High,High,Active,1,6167778052
-Near ,Blockchain,1,High,High,No,Active,1,2788511612
-FTX,Exchange ,1,High,High,High,Active,1,3617968544
-UNI,DEX,1,High,High,High,Active,1,3162990002
-Axie AXS,P2E,1,High,High,High,Active,1,1330027792
-ICP,Cloud Storage,1,High,High,No,Active,1,1552734227
-Elrond,Blockchain,1,High,High,High,Active,1,1135973853
-Sandbox,P2E Metaverse,1,High,High,High,Active,1,1533577086
-Fantom,Blockchain,1,High,High,High,Active,1,769147163
-Theta,Blockchain,1,High,High,High,Active,1,1174201341
-Klayton,Blockchain,1,High,High,High,Active,1,725835050
-Thorchain,Blockchain,1,High,High,High,Active,0,709378404
-The Graph,Protocol,0,High,High,High,Active,0,717734267
-Flow,Blockchain,0,High,High,High,Active,0,1678969839
-Aave,Finance,1,High,High,High,Active,0,1145228310
-Pancakeswap,DEX,0,High,High,High,Active,0,468216557
+Dot,Blockchain,Yes,1300000,36000,24000,Active,Yes,7612855727
+ETH,Blockchain,Yes,2700000,200000,31000,Active,Yes,1.70024E+11
+BNB,Exchange ,Yes,9200000,155000,50000,Active,Yes,39874609590
+Terra,Blockchain,Yes,1100000,5300,3300,Active,Yes,225690899
+AVAX,Blockchain,Yes,715000,47000,50000,Active,Yes,5892669400
+Doge,Meme,No,3400000,200000,31000,Active,Yes,8232745062
+Polygon ,Blockchain,Yes,1500000,25000,41000,Active,Yes,6167778052
+Near ,Blockchain,Yes,577000,60000,54000,Active,Yes,2788511612
+FTX,Exchange ,Yes,666000,66000,8500,Active,Yes,3617968544
+UNI,DEX,Yes,904000,60000,92000,Active,Yes,3162990002
+Axie AXS,P2E,Yes,942000,61000,727000,Active,Yes,1330027792
+ICP,Cloud Storage,Yes,643000,44000,9000,Active,Yes,1552734227
+Elrond,Blockchain,Yes,623000,61000,16000,Active,Yes,1135973853
+Sandbox,P2E Metaverse,Yes,1000000,98000,301000,Active,Yes,1533577086
+Fantom,Blockchain,Yes,455000,30000,22000,Active,Yes,769147163
+Theta,Blockchain,Yes,344000,65000,24000,Active,Yes,1174201341
+Klaytn,Blockchain,Yes,146000,31000,16000,Active,Yes,725835050
+Thorchain,Blockchain,Yes,187000,21000,11000,Active,Yes,709378404
+The Graph,Protocol,Yes,231000,23000,36000,Active,Yes,717734267
+Flow,Blockchain,Yes,173000,17000,46000,Active,Yes,1678969839
+Aave,Finance,Yes,481000,17000,45000,Active,Yes,1145228310
+Pancakeswap,DEX,No,1600000,81000,181000,Active,Yes,468216557
