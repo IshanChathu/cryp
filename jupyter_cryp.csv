@@ -1,23 +1,23 @@
 ﻿Coin,Category,Team Transparency,Twitter,Telegram,Discord,Github,Following Roadmap,Volume
-Dot,Blockchain,1,High,High,High,Active,1,"7,612,855,727"
-ETH,Blockchain,1,High,High,High,Active,1,"171,316,494,556"
-BNB,Exchange ,1,High,High,High,Active,1,"39,874,609,590"
-Terra,Blockchain,1,High,High,High,Active,1,"225,690,899"
-AVA,Blockchain,1,High,High,High,Active,1,"5,892,669,400"
-Doge,Meme,1,High,High,High,Active,1,"8,232,745,062"
-Polygon ,Blockchain,1,High,High,High,Active,1,"6,167,778,052"
-Near ,Blockchain,1,High,High,No,Active,1,"2,788,511,612"
-FTX,Exchange ,1,High,High,High,Active,1,"3,617,968,544"
-UNI,DEX,1,High,High,High,Active,1,"3,162,990,002"
-Axie AXS,P2E,1,High,High,High,Active,1,"1,330,027,792"
-ICP,Cloud Storage,1,High,High,No,Active,1,"1,552,734,227"
-Elrond,Blockchain,1,High,High,High,Active,1,"1,135,973,853"
-Sandbox,P2E Metaverse,1,High,High,High,Active,1,"1,533,577,086"
-Fantom,Blockchain,1,High,High,High,Active,1,"769,147,163"
-Theta,Blockchain,1,High,High,High,Active,1,"1,174,201,341"
-Klayton,Blockchain,1,High,High,High,Active,1,"725,835,050"
-Thorchain,Blockchain,1,High,High,High,Active,0,"709,378,404"
-The Graph,Protocol,0,High,High,High,Active,0,"717,734,267"
-Flow,Blockchain,0,High,High,High,Active,0,"1,678,969,839"
-Aave,Finance,1,High,High,High,Active,0,"1,145,228,310"
-Pancakeswap,DEX,0,High,High,High,Active,0,"468,216,557"
+Dot,Blockchain,1,High,High,High,Active,1,7612855727
+ETH,Blockchain,1,High,High,High,Active,1,1.70024E+11
+BNB,Exchange ,1,High,High,High,Active,1,39874609590
+Terra,Blockchain,1,High,High,High,Active,1,225690899
+AVA,Blockchain,1,High,High,High,Active,1,5892669400
+Doge,Meme,1,High,High,High,Active,1,8232745062
+Polygon ,Blockchain,1,High,High,High,Active,1,6167778052
+Near ,Blockchain,1,High,High,No,Active,1,2788511612
+FTX,Exchange ,1,High,High,High,Active,1,3617968544
+UNI,DEX,1,High,High,High,Active,1,3162990002
+Axie AXS,P2E,1,High,High,High,Active,1,1330027792
+ICP,Cloud Storage,1,High,High,No,Active,1,1552734227
+Elrond,Blockchain,1,High,High,High,Active,1,1135973853
+Sandbox,P2E Metaverse,1,High,High,High,Active,1,1533577086
+Fantom,Blockchain,1,High,High,High,Active,1,769147163
+Theta,Blockchain,1,High,High,High,Active,1,1174201341
+Klayton,Blockchain,1,High,High,High,Active,1,725835050
+Thorchain,Blockchain,1,High,High,High,Active,0,709378404
+The Graph,Protocol,0,High,High,High,Active,0,717734267
+Flow,Blockchain,0,High,High,High,Active,0,1678969839
+Aave,Finance,1,High,High,High,Active,0,1145228310
+Pancakeswap,DEX,0,High,High,High,Active,0,468216557
